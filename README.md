@@ -1,24 +1,16 @@
-# README
+# ToDo App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple ToDo apple using Ajax and Database PostgreSQL
 
-Things you may want to cover:
+With this app, you can create a new task from you initial page, remove and refresh without be rendered to another page usind features from Ajax.
 
-* Ruby version
+## Setup Project
 
-* System dependencies
+To run this project, you to be using the database **Postgres**.
 
-* Configuration
+```
+```
 
-* Database creation
+### Final Considerations
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I did not implemented a *Private* and *Public* list using Login or Sign in methods! But, you can check the simple functionalities from the system using which was required; Ajax, Postgres, Rails & Tests.
