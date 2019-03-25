@@ -12,10 +12,24 @@ To run this project, you need to be using the database **Postgres** and **Linux*
 ***Rails version: 5.2.2.1***,
 ***Ruby version: 2.5.3***
 
-
+Inside the project run:
 
 ```
+bundle install
 ```
+```
+bundle install --binstubs
+```
+```
+rake db:create
+```
+```
+rake db:migrate
+```
+```
+rake db:seed
+```
+
 
 ## Running Project
 
