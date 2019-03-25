@@ -1,0 +1,10 @@
+<h1>Blox Tasks</h1>
+<%= link_to "Nova Tarefa", new_task_path, id: "new_link", remote: true %>
+<h2>Tarefas Incompletas</h2>
+<div class="tasks" id="incomplete_tasks">
+  <%= render @incomplete_tasks %>
+</div>
+<h2>Tarefas Realizadas</h2>
+<div class="tasks" id="complete_tasks">
+  <%= render @complete_tasks %>
+</div>
