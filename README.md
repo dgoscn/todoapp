@@ -66,7 +66,7 @@ And go to test/browser file & replace if you needed.
 Once the server is running, do the command below:
 
 ```
-cd test
+cd test/spec
 rspec index_spec.rb
 ```
 
