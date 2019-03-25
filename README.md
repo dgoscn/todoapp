@@ -34,6 +34,6 @@ cd test
 rspec index_spec.rb
 ```
 
-### Final Considerations
+## Final Considerations
 
 I did not implemented a *Private* and *Public* list using Login or Sign in methods! But, you can check the simple functionalities from the system using which was required; Ajax, Postgres, Rails & Tests.
