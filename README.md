@@ -30,6 +30,10 @@ output
 ```
 rails server
 ```
+You will obtain a URL to access the Application, i.e: localhost:3000
+
+![frontand](https://user-images.githubusercontent.com/8397519/54957257-f5a88f80-4f30-11e9-8345-f5856a7ff8ed.png)
+
 
 ## Running Tests
 
