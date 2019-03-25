@@ -7,6 +7,7 @@ With this app, you can create a new task from you initial page, remove and refre
 ## Setup Project
 
 To run this project, you to be using the database **Postgres** and **Linux**.
+
 ***Postgres version: 10.6***
 ***Rails version: 5.2.2.1***
 ***Ruby version: 2.5.3***
