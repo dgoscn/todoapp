@@ -1,6 +1,6 @@
 # ToDo App
 
-This is a simple ToDo apple using Ajax and Database PostgreSQL
+This is a simple ToDo app using Ajax and Database PostgreSQL
 
 With this app, you can create a new task from you initial page, remove and refresh without be rendered to another page usind features from Ajax.
 
